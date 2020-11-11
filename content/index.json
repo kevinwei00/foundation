@@ -1,0 +1,77 @@
+{
+  "page_title": "Home",
+  "sections": [
+    {
+      "component": "DuoSection",
+      "data": {
+        "classes": "duo-hero",
+        "media_block": {
+          "image": "https://via.placeholder.com/768"
+        },
+        "content_article": {
+          "heading_block": {
+            "kicker": "save now!",
+            "title": "Hello world!"
+          },
+          "text_block": [
+            "paragraph #1",
+            "paragraph #2",
+            "paragraph #3",
+            "paragraph #4",
+            "paragraph #5"
+          ],
+          "cta_block": {
+            "cta_text": "Buy now",
+            "cta_target": "_blank"
+          }
+        }
+      }
+    },
+    {
+      "component": "DuoSection",
+      "data": {
+        "media_block": {
+          "image_alt": "some image",
+          "images": [
+            {
+              "src": "https://via.placeholder.com/375",
+              "max": 767
+            },
+            {
+              "src": "https://via.placeholder.com/768",
+              "max": 1023
+            },
+            {
+              "src": "https://via.placeholder.com/1024",
+              "max": 1279
+            },
+            {
+              "src": "https://via.placeholder.com/1280"
+            }
+          ]
+        },
+        "content_article": {
+          "text_block": "This is some text!!"
+        }
+      }
+    },
+    {
+      "component": "DuoSection",
+      "data": {
+        "media_block": {
+          "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+          "video_options": {
+            "controls": true,
+            "poster": "https://via.placeholder.com/375"
+          }
+        },
+        "content_article": {
+          "list_block": {
+            "icon": "favicon.ico",
+            "items": ["foo", "bar", "baz"]
+          }
+        }
+      }
+    }
+  ]
+}
