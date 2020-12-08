@@ -1,0 +1,22 @@
+@import 'styles/global/global';
+@import 'styles/sections/duo-hero';
+
+.style {
+  color: $white;
+  background-color: $black;
+
+  :global {
+    .media-block video {
+      outline: none;
+    }
+
+    .cta {
+      color: $black;
+      background-color: $white;
+
+      &:hover {
+        color: $white;
+      }
+    }
+  }
+}
