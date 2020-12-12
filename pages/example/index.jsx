@@ -1,4 +1,4 @@
-import PageBuilder from 'foundation-bricks/components/PageBuilder';
+import PageBuilder from 'components/PageBuilder';
 import content from 'content/example.json';
 import css from 'styles/example.module.scss';
 
