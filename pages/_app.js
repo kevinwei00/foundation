@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { DefaultSeo } from 'next-seo';
 import '@kevinwei00/foundation-bricks/styles/base/_base.scss';
+import '@kevinwei00/foundation-bricks/build/main.css';
 
 export default function App({ Component, pageProps }) {
   return <>

@@ -1,6 +1,6 @@
 import { NextSeo } from 'next-seo';
 // import dynamic from 'next/dynamic';
-import DuoSection from '@kevinwei00/foundation-bricks/components/sections/DuoSection';
+import { DuoSection } from '@kevinwei00/foundation-bricks';
 
 const PageBuilder = ({ content, css }) => {
   const componentMap = {

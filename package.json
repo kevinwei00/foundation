@@ -8,12 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@kevinwei00/foundation-bricks": "^0.1.8",
     "next": "^9.5.5",
     "next-seo": "^4.13.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "sass": "^1.27.0",
-    "@kevinwei00/foundation-bricks": "^0.1.2"
+    "sass": "^1.27.0"
   },
   "devDependencies": {
     "eslint": "^7.11.0",
