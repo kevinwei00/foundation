@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@kevinwei00/foundation-bricks": "^0.1.8",
+    "@kevinwei00/foundation-bricks": "^0.2.0",
     "next": "^9.5.5",
     "next-seo": "^4.13.0",
     "react": "^16.13.1",

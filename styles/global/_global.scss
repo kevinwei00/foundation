@@ -1,0 +1,9 @@
+@import 'colors';
+@import 'fonts';
+
+// app-wide styles go here
+#__next > div {
+  display: flex;
+  flex-direction: column;
+  font-family: $font-primary;
+}
